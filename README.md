@@ -7,4 +7,4 @@
 |3 | 職稱 | 引擎技師 |
 |3 | 任職公司 | 合同興 |
 https://github.com/snow115844/11302
-|4 | 圖片 | <img exported_qrcode_image_600.png" width="100" Height="100" />
+|4 | 圖片 | <img scr exported_qrcode_image_600.png" width="100" Height="100" />
