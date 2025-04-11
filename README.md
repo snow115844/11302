@@ -15,7 +15,12 @@
 |3 | 任職公司 | 合同興 |
 </details>
 
-觀看影片一
+<details>
+<summary>
+影片
+</summary>
+
+  觀看影片一
 <a href="https://www.youtube.com/watch?v=Ir4tPD86rFA" target="_blank">【魔物獵人世界：Iceborne】全BOSS出場動畫(含冰原+全DLC) - 4K60FPS高流暢版本 - 怪物猎人世界：冰原 - Monster Hunter World - MHWIB</a>
 <br>
 <a href="https://www.youtube.com/watch?v=Ir4tPD86rFA" target="_blank"><img src="http://img.youtube.com/vi/Ir4tPD86rFA/0.jpg" 
