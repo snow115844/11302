@@ -2,8 +2,6 @@
 
 <details>
 <summary>
-# 11302
-  
 智慧城市導論
 </summary>
 
